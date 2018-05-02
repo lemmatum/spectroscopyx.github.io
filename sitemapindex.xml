@@ -6,27 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://plasmapy.github.io/categories/cat_release.xml</loc>
-  <lastmod>2018-05-01T22:49:00Z</lastmod>
+  <loc>https://spectroscopyx.github.io/categories/cat_release.xml</loc>
+  <lastmod>2018-05-02T19:42:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://plasmapy.github.io/categories/mathjax.xml</loc>
-  <lastmod>2018-05-01T22:49:00Z</lastmod>
+  <loc>https://spectroscopyx.github.io/categories/mathjax.xml</loc>
+  <lastmod>2018-05-02T19:42:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://plasmapy.github.io/categories/plasmapy.xml</loc>
-  <lastmod>2018-05-01T22:49:00Z</lastmod>
+  <loc>https://spectroscopyx.github.io/categories/plasmapy.xml</loc>
+  <lastmod>2018-05-02T19:42:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://plasmapy.github.io/categories/release.xml</loc>
-  <lastmod>2018-05-01T22:49:00Z</lastmod>
+  <loc>https://spectroscopyx.github.io/categories/release.xml</loc>
+  <lastmod>2018-05-02T19:42:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://plasmapy.github.io/rss.xml</loc>
-  <lastmod>2018-05-01T22:49:00Z</lastmod>
+  <loc>https://spectroscopyx.github.io/rss.xml</loc>
+  <lastmod>2018-05-02T19:55:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://plasmapy.github.io/sitemap.xml</loc>
-  <lastmod>2018-05-01T22:49:00Z</lastmod>
+  <loc>https://spectroscopyx.github.io/sitemap.xml</loc>
+  <lastmod>2018-05-02T19:55:00Z</lastmod>
  </sitemap>
 </sitemapindex>
