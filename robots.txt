@@ -1,4 +1,4 @@
-Sitemap: https://spectroscopyx.github.io/sitemapindex.xml
+Sitemap: https://plasmapy.github.io/spectroscopyx/sitemapindex.xml
 
 User-Agent: *
-Host: spectroscopyx.github.io
+Host: plasmapy.github.io

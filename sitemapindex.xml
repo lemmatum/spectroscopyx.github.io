@@ -6,11 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://spectroscopyx.github.io/rss.xml</loc>
-  <lastmod>2018-05-02T20:28:00Z</lastmod>
+  <loc>https://plasmapy.github.io/spectroscopyx/rss.xml</loc>
+  <lastmod>2018-05-02T21:58:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://spectroscopyx.github.io/sitemap.xml</loc>
-  <lastmod>2018-05-02T20:28:00Z</lastmod>
+  <loc>https://plasmapy.github.io/spectroscopyx/sitemap.xml</loc>
+  <lastmod>2018-05-02T21:58:00Z</lastmod>
  </sitemap>
 </sitemapindex>

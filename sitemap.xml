@@ -6,35 +6,35 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://spectroscopyx.github.io/</loc>
+  <loc>https://plasmapy.github.io/spectroscopyx/</loc>
   <lastmod>2018-05-02T20:28:00Z</lastmod>
  </url>
  <url>
-  <loc>https://spectroscopyx.github.io/about/</loc>
+  <loc>https://plasmapy.github.io/spectroscopyx/about/</loc>
   <lastmod>2018-05-02T20:28:00Z</lastmod>
  </url>
  <url>
-  <loc>https://spectroscopyx.github.io/archive.html</loc>
+  <loc>https://plasmapy.github.io/spectroscopyx/archive.html</loc>
+  <lastmod>2018-05-02T21:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://plasmapy.github.io/spectroscopyx/categories/</loc>
   <lastmod>2018-05-02T20:28:00Z</lastmod>
  </url>
  <url>
-  <loc>https://spectroscopyx.github.io/categories/</loc>
+  <loc>https://plasmapy.github.io/spectroscopyx/conduct/</loc>
   <lastmod>2018-05-02T20:28:00Z</lastmod>
  </url>
  <url>
-  <loc>https://spectroscopyx.github.io/conduct/</loc>
+  <loc>https://plasmapy.github.io/spectroscopyx/contribute/</loc>
   <lastmod>2018-05-02T20:28:00Z</lastmod>
  </url>
  <url>
-  <loc>https://spectroscopyx.github.io/contribute/</loc>
+  <loc>https://plasmapy.github.io/spectroscopyx/license/</loc>
   <lastmod>2018-05-02T20:28:00Z</lastmod>
  </url>
  <url>
-  <loc>https://spectroscopyx.github.io/license/</loc>
-  <lastmod>2018-05-02T20:28:00Z</lastmod>
- </url>
- <url>
-  <loc>https://spectroscopyx.github.io/vision/</loc>
+  <loc>https://plasmapy.github.io/spectroscopyx/vision/</loc>
   <lastmod>2018-05-02T20:28:00Z</lastmod>
  </url>
 </urlset>
