@@ -1,0 +1,4 @@
+Sitemap: https://spectroscopyx.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: spectroscopyx.github.io
